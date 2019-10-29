@@ -1,2 +1,2 @@
-# An--Matte-Boundary-Defocus-Model-BasedCascaded-Network-for-Multi-focus-Image-Fusion
-Code for papaer Anα-Matte Boundary Defocus Model BasedCascaded Network for Multi-focus Image Fusion
+# MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion
+Code for our papaer An α-Matte Boundary Defocus Model Based Cascaded Network for Multi-focus Image Fusion

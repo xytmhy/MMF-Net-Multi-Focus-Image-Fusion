@@ -22,7 +22,7 @@ Network Architecture
 Dataset
 ----
 
-![image4](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/tree/master/Illustration/4.png)
+![image4](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/Illustration/4.png)
 
 Training
 ----

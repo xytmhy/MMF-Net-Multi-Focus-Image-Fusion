@@ -12,7 +12,7 @@ Capturing an all-in-focus image with a single camera is difficult since the dept
 
 α-Matte Boundary Defocus Model
 ----
-To see the details of the imaging process of the proposed α-matte boundary defocus model, please reference our paper on arXiv. Here, we just show the difference of several defocus model on the simulated scene.
+To see the details of the imaging process of the proposed α-matte boundary defocus model, please reference our paper on arXiv, https://arxiv.org/abs/1910.13136. Here, we only show the difference of several defocus model on the simulated scene.
 
 ![image5](./Illustration/5.png)
 

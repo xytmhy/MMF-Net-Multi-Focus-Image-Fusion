@@ -22,22 +22,28 @@ Network Architecture
 Dataset
 ----
 
-![image4](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/Illustration/4.png)
+![image4](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/tree/master/Illustration/4.png)
 
 Training
 ----
+run main.py
+
 
 Testing
 ----
+run run_inference.py
 
 Pre-trained models
 ----
 
+
 Results
 ----
+You are very welcome to conduct results comparison with our method. The fusion results on Lytro dataset are shown in ./ResultsLytro.
 
 Acknowledgement
 ----
+Our model is trained on generated dataset, and some of the original images come from Adobe Alpha Matting and Microsoft COCO datasets.
 
 Citation
 ----

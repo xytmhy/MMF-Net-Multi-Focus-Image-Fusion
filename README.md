@@ -10,19 +10,19 @@ Capturing an all-in-focus image with a single camera is difficult since the dept
 α-Matte Boundary Defocus Model
 ----
 
-![image5](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/tree/master/Illustration/5.png)
+![image5](./Illustration/5.png)
 
-![image6](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/tree/master/Illustration/6.png)
+![image6](./Illustration/6.png)
 
 Network Architecture
 ----
 
-![image3](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/tree/master/Illustration/3.png)
+![image3](./Illustration/3.png)
 
 Dataset
 ----
 
-![image4](https://github.com/xytmhy/MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion/tree/master/Illustration/4.png)
+![image4](./Illustration/4.png)
 
 Training
 ----

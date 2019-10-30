@@ -48,7 +48,7 @@ Pre-trained models & Results
 ----
 
 You are very welcome to conduct results comparison with our method. The fusion results on Lytro dataset are shown in ./ResultsLytro.
-Unfortunately, a part of the training data comes from the Adobe Alpha Matting Dataset, which is not on public. But we are very happy to help you testing on your data. Please feel free to contact Haoyu Ma via hy-ma17@mails.tsinghua.edu.cn.
+Unfortunately, a part of the training data comes from the Adobe Alpha Matting Dataset, which is not on public. But we are very happy to help you testing on your data. Please feel free to contact Haoyu Ma via hy-ma17@mails.tsinghua.edu.cn. (Before July 2020; then I will update my email address.)
 
 Besides, if the Lytro Dataset is used in your research, you would include the original paper as your reference. http://www.irisa.fr/temics/demos/lightField/index.html
 

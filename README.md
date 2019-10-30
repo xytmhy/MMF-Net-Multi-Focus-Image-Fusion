@@ -1,5 +1,6 @@
 # MMF-Net-alpha-Matte-Boundary-Defocus-Model-Fusion
 Code for our papaer An α-Matte Boundary Defocus Model Based Cascaded Network for Multi-focus Image Fusion
+https://arxiv.org/abs/1910.13136
 
 Overview
 ----
@@ -58,3 +59,11 @@ Our model is trained on generated dataset, and some of the original images come 
 
 Citation
 ----
+  @misc{ma2019matte,
+    title={An α-Matte Boundary Defocus Model Based Cascaded Network for Multi-focus Image Fusion},
+    author={Haoyu Ma and Qingmin Liao and Juncheng Zhang and Shaojun Liu and Jing-Hao Xue},
+    year={2019},
+    eprint={1910.13136},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}

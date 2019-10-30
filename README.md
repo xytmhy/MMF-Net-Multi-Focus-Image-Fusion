@@ -20,13 +20,13 @@ To see the details of the imaging process of the proposed α-matte boundary defo
 Network Architecture
 ----
 
-![image3](./Illustration/3.png)
+![image3](./Illustration/4.png)
 
 Dataset
 ----
 There are several examples of the traning dataset generated according to the α-Matte Defocus Model.
 
-![image4](./Illustration/4.png)
+![image4](./Illustration/3.png)
 
 Training
 ----
@@ -54,7 +54,7 @@ Besides, if the Lytro Dataset is used in your research, you would include the or
 
 Acknowledgement
 ----
-Our model is trained on generated dataset, and some of the original images come from Adobe Alpha Matting and Microsoft COCO datasets.
+Our model is trained on generated dataset, and some of the original images come from the Adobe Alpha Matting and Microsoft COCO datasets.
 
 Citation
 ----
